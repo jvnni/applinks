@@ -13,13 +13,14 @@
             {
                 "appID": "3RYVG98763.com.manomano.pro.dev",
                 "paths": [
-                    "/*"
+                    "/*",
+                    "/applinks"
                 ]
             },
             {
                 "appID": "3RYVG98763.com.manomano.pro.qa",
                 "paths": [
-                    "/*"
+                    "/applinks"
                 ]
             },
             {
